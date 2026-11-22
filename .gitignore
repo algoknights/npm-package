@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Log files created during development/examples
+logs/
+*.log
+
+# npm pack archives
+*.tgz
+
+# OS files
+.DS_Store
+Thumbs.db

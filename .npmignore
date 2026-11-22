@@ -1,0 +1,14 @@
+# Development and test files
+example/
+test/
+.github/
+.vscode/
+
+# Git and OS files
+.git/
+.gitignore
+.DS_Store
+
+# Log files created during testing
+logs/
+*.log
